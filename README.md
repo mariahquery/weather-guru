@@ -78,8 +78,7 @@ yarn preview
 ```
 
 📚 Learn More
-
-<script setup> Documentation https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup
-Vue Docs TypeScript Guide https://vuejs.org/guide/typescript/overview.html#project-setup
+- [Script Setup Documentation](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup)
+- [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup)
 
 Built with ❤️ and Vue 3 by Maria Furtado Bravo
