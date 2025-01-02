@@ -77,8 +77,4 @@ npm run preview
 yarn preview
 ```
 
-📚 Learn More
-- [Script Setup Documentation](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup)
-- [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup)
-
 Built with ❤️ and Vue 3 by Maria Furtado Bravo
