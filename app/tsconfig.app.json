@@ -6,6 +6,9 @@
     "module": "ESNext",
     "lib": ["ES2020", "DOM", "DOM.Iterable"],
     "skipLibCheck": true,
+    "allowJs": true,
+    "checkJs": false,
+    "types": ["vuetify"],
 
     /* Bundler mode */
     "moduleResolution": "bundler",

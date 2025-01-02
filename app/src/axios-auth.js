@@ -8,8 +8,3 @@ export const axiosInstance = axios.create({
     key: "f27998794ecf4c638f1185817241912",
   },
 });
-
-axiosInstance.defaults.headers.common["X-Requested-With"] = "XMLHttpRequest";
-axiosInstance.defaults.xsrfCookieName = "csrftoken";
-axiosInstance.defaults.xsrfHeaderName = "X-CSRFToken";
-axiosInstance.defaults.withCredentials = true;
